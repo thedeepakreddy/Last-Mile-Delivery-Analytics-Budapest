@@ -1,6 +1,6 @@
 # 🚴‍♂️ Last-Mile Delivery Analytics: Financial & SLA Audit
 
-**Dashboard : ![Last-Mile Delivery Dashboard](/assets/dashboard.png)
+**Dashboard : ![Last-Mile Delivery Dashboard](/assets/dashboard.png)*
 
 ##  Executive Summary
 In high-volume last-mile delivery networks, a minor discrepancy in dynamic pricing or a slight delay in dispatch can result in significant financial bleed. This project simulates an enterprise-level data pipeline to audit courier payouts, predict Service Level Agreement (SLA) breaches, and optimize routing infrastructure across Budapest. 
