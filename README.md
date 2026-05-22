@@ -38,7 +38,7 @@ By bridging the gap between rigorous back-end data engineering and front-end pro
 * `/data` -  dataset and data dictionary.
 * `/sql_queries` - PostgreSQL scripts for anomaly detection and rolling averages.
 * `/notebooks` - Jupyter Notebooks containing the EDA, spatial enrichment, and Scikit-Learn pipeline.
-* `/assets` - High-resolution screenshots of the Tableau dashboard and spatial maps.
+* `/assets` - High-resolution screenshots of the Tableau dashboard.
 
 ---
 **Author:** Gorisi Deepak Reddy  
