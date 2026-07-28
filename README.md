@@ -10,7 +10,7 @@ Auditing ~10,000 courier deliveries across Budapest for **financial leakage** an
   <img src="https://img.shields.io/badge/Dataset-9%2C964%20audited%20orders-success" alt="Dataset">
 </p>
 
-![Financial and SLA audit summary](assets/audit-summary.png)
+
 
 ---
 
