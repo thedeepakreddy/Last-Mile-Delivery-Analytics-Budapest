@@ -97,7 +97,7 @@ The core of the project is a single layered CTE query ([`sql_queries/Script-25.s
 - **24-hour cost curve** that makes the dinner-rush spike visible instantly.
 - Interactive filters on vehicle, weather and district; front-end calculated fields used where the source schema was fixed.
 
-![Tableau dashboard](assets/dashboard.png)
+![Tableau dashboard](assets/Dashboard.png)
 
 ---
 
